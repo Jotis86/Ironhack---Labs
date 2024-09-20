@@ -4,4 +4,4 @@
 Repository containing all exercises and projects completed during the Ironhack course. Each folder corresponds to a specific exercise or project.
 
 ## Project Index
-1. Lab Python Data Structures [Link] (https://github.com/Jotis86/lab-python-data-structures)
+1. Lab Python Data Structures [Link](https://github.com/Jotis86/lab-python-data-structures)
