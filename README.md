@@ -7,3 +7,4 @@ Repository containing all exercises and projects completed during the Ironhack c
 1. Lab Python Data Structures [View Project](https://github.com/Jotis86/lab-python-data-structures)
 2. Lab Python Flow Control [View Project](https://github.com/Jotis86/lab-python-flow-control)
 3. Lab Python Functions [View Project](https://github.com/Jotis86/lab-python-functions)
+4. Lab Python List Dict Set Comprehension [View Project](https://github.com/Jotis86/lab-python-list-dict-set-comprehension)
